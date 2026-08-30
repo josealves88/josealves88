@@ -1,75 +1,73 @@
-# Jose | Engenheiro de Redes e Telecom migrando para NetDevOps
+# Jose | Network and Telecom Engineer transitioning to NetDevOps
 
-Engenheiro de redes e telecomunicações com mais de 15 anos de experiência em ambientes carrier-grade, hoje direcionando a carreira para automação de redes e NetDevOps, com foco no mercado remoto internacional.
+Network and telecommunications engineer with over 15 years of experience in carrier-grade and enterprise environments, now steering my career toward network automation and NetDevOps, with a focus on the international remote market.
 
-Baseado em Curitiba, Paraná, Brasil.
+Based in Curitiba, Paraná, Brazil.
 
-## Sobre
+## About
 
-Minha trajetória vem da operação de redes de provedores e infraestrutura de telecom em ambientes multi-fornecedor (MikroTik, Cisco, Huawei, Harmonic): BNG/vBNG, XGS-PON/GPON, roteamento BGP/OSPF, RADIUS/AAA e SD-WAN. Passei mais de 12 anos como cofundador e CTO de uma MSP (Backcom Telecomunicações) atendendo pequenas e médias empresas, e atualmente atuo na área de Application Engineering da Venko Networks, com soluções para ISPs.
+My background comes from ISP, enterprise network operations and telecom infrastructure across multi-vendor environments (MikroTik, Cisco, Huawei, Harmonic): BNG/vBNG, XGS-PON/GPON, BGP/OSPF routing, RADIUS/AAA, and SD-WAN. I spent over 12 years as co-founder and CTO of an MSP (Backcom Telecomunicações) serving small and medium businesses, and I currently work on the Application Engineering team at Venko Networks, building solutions for ISPs.
 
-Esse histórico me deu uma visão orientada a operação real: entender o problema no nível do protocolo, validar em laboratório antes da produção e automatizar o que se repete. É essa perspectiva que estou aplicando ao desenvolvimento e à automação de redes.
+This background gave me an operations-first mindset: understand the problem at the protocol level, validate it in the lab before production, and automate what repeats. That is the perspective I am bringing to development and network automation.
 
-## Objetivo
+## Objective
 
-Unir experiência de operação carrier-grade com automação e boas práticas de engenharia de software para construir redes que sejam observáveis, reproduzíveis e sustentáveis, e não apenas funcionais.
+Combine carrier-grade and enteprise operations experience with automation and solid software engineering practices to build networks that are observable, reproducible, and sustainable, not just functional.
 
-## Tecnologias e conhecimentos
+## Technologies and skills
 
-Redes e Telecom
-`MikroTik RouterOS` · `Cisco` · `Harmonic` · `Huawei S6730` · `OcNOS-SP` · `Tibit XGS-PON` · `BENU vBNG` · `BGP` · `OSPF` · `RADIUS / AAA (FreeRADIUS)` · `SD-WAN` · `QinQ / PPPoE`
+Networking and Telecom
+`MikroTik RouterOS` · `Cisco` · `Harmonic` · `Huawei S6730` · `OcNOS-SP` · `Tibit XGS-PON` · `BNG` · `BGP` · `OSPF` · `RADIUS / AAA (FreeRADIUS)` · `SD-WAN` · `QinQ / PPPoE`
 
-Automação e NetDevOps
-`Python` · `Ansible` · `NETCONF / YANG (ncclient)` · `Git e GitHub`
+Automation and NetDevOps
+`Python` · `Ansible` · `NETCONF / YANG (ncclient)` · `Git and GitHub`
 
-Infraestrutura e Observabilidade
+Infrastructure and Observability
 `Proxmox` · `Docker` · `pfSense` · `ZeroTier` · `Zabbix` · `Grafana` · `Wireshark`
 
-Outros
+Other
 `Obsidian` · `SCRUM / Agile` · `Claude Code CLI / MCP`
 
-## Projetos em destaque
+## Featured projects
 
-### Lawful Intercept em BENU vBNG
-Validação ponta a ponta do caminho de handover de Lawful Intercept antes de contato com ambiente de operadora. Túnel IPsec site-to-site entre o BNG e um gateway remoto atuando como ponto de mediação
+### Lawful Intercept on BENU vBNG
+End-to-end validation of the Lawful Intercept handover path before any contact with an operator environment. Site-to-site IPsec tunnel between the BNG and a remote gateway acting as the mediation point.
 
 `IPsec` · `BENU vBNG` · `Wireshark` · `Lua` · `Lawful Intercept`
 
-### MVP de Analytics de CCTV
-Prova de conceito de análise de vídeo baseada em IA para o portfólio de CCTV, usando o Frigate NVR com detecção por YOLOv8, orquestrado em Docker Compose. Foco em detecção de objetos em tempo real sobre streams de câmeras IP.
+### CCTV Analytics MVP
+Proof of concept for AI-based video analytics for the CCTV portfolio, using Frigate NVR with YOLOv8 detection, orchestrated with Docker Compose. Focus on real-time object detection over IP camera streams.
 
 `YOLOv8` · `Docker Compose` · `Python`
 
-### Help desk B2B com osTicket
-Implantação de um help desk B2B para a operação de MSP: osTicket v1.18.3 sobre Ubuntu 22.04, Apache, MariaDB e PHP 8.3 (via PPA ondrej), estruturando o atendimento a clientes corporativos.
+### B2B help desk with osTicket
+Deployment of a B2B help desk for the MSP operation: osTicket v1.18.3 on Ubuntu 22.04, Apache, MariaDB, and PHP 8.3 (via the ondrej PPA), structuring support for corporate clients.
 
 `osTicket` · `Ubuntu` · `Apache` · `MariaDB` · `PHP`
 
-### Automação de conteúdo técnico
-Workflow de automação para criação de conteúdo técnico usando Claude Skills, Projects e o Claude Code CLI, com regras de estilo definidas para saída consistente.
+### Technical content automation
+Automation workflow for creating technical content using Claude Skills, Projects, and the Claude Code CLI, with defined style rules for consistent output.
 
 `Claude Code CLI` · `Claude Skills` · `MCP`
 
-> Nomes e links dos repositórios: SUBSTITUIR pelos repos reais.
+## Currently studying
 
-## Atualmente estudando
+- Network automation with Python (fundamentals through OOP, scripts, and GUI development with Tkinter)
+- NETCONF / YANG with ncclient
+- Claude Code CLI and MCP integrations
+- SCRUM and Agile methodologies
+- Software Engineering degree
 
-- Automação de redes com Python (fundamentos até OOP, scripts e GUI com Tkinter)
-- NETCONF / YANG com ncclient
-- Claude Code CLI e integrações via MCP
-- SCRUM e metodologias ágeis
-- Graduação em Engenharia de Software
+## How I think
 
-## Como eu penso
+Operating ISP networks taught me to start with the problem, not the tool. What is the observed behavior? What does the traffic actually carry on the wire? Where does it break under load? Only after answering that does the solution come, and whenever possible it is automated and documented for the next cycle.
 
-Operar redes de provedor me ensinou a começar pelo problema, não pela ferramenta. Qual é o comportamento observado? O que o tráfego realmente carrega no fio? Onde isso quebra sob carga? Só depois de responder isso vem a solução, e sempre que possível ela é automatizada e documentada para o próximo ciclo.
+## Contact
 
-## Contato
-
-- LinkedIn: (https://www.linkedin.com/in/joseribeiroroberto/)
-- E-mail: joseribeiro.roberto@gmail.com
+- LinkedIn: [linkedin.com/in/joseribeiroroberto](https://www.linkedin.com/in/joseribeiroroberto/)
+- Email: joseribeiro.roberto@gmail.com
 - GitHub: [@josealves88](https://github.com/josealves88)
 
-## Em construção
+## Work in progress
 
-Este perfil acompanha minha transição de operação de redes carrier-grade para NetDevOps e automação. Novos projetos, laboratórios e experimentos serão adicionados conforme eu transformar operação em código.
+This profile follows my transition from carrier-grade network operations to NetDevOps and automation. New projects, labs, and experiments will be added as I turn operations into code.
