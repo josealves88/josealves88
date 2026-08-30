@@ -6,7 +6,7 @@ Based in Curitiba, Paraná, Brazil.
 
 ## About
 
-My background comes from ISP, enterprise network operations and telecom infrastructure across multi-vendor environments (MikroTik, Cisco, Huawei, Harmonic): BNG/vBNG, XGS-PON/GPON, BGP/OSPF routing, RADIUS/AAA, and SD-WAN. I spent over 12 years as co-founder and CTO of an MSP (Backcom Telecomunicações) serving small and medium businesses, and I currently work on the Application Engineering team at Venko Networks, building solutions for ISPs.
+My background comes from ISP, enterprise network operations and telecom infrastructure across multi-vendor environments (MikroTik, Cisco, Huawei, Harmonic): BNG/vBNG, XGS-PON/GPON, BGP/OSPF routing, RADIUS/AAA, and SD-WAN. I spent over 12 years as a CTO of an MSP (Backcom Telecomunicações) serving small and medium businesses, and I currently work on the Application Engineering team at Venko Networks, building solutions for ISPs.
 
 This background gave me an operations-first mindset: understand the problem at the protocol level, validate it in the lab before production, and automate what repeats. That is the perspective I am bringing to development and network automation.
 
