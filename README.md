@@ -17,7 +17,7 @@ Combine carrier-grade and enteprise operations experience with automation and so
 ## Technologies and skills
 
 Networking and Telecom
-`MikroTik RouterOS` · `Cisco` · `Harmonic` · `Huawei S6730` · `OcNOS-SP` · `Tibit XGS-PON` · `BNG` · `BGP` · `OSPF` · `RADIUS / AAA (FreeRADIUS)` · `SD-WAN` · `QinQ / PPPoE`
+`MikroTik RouterOS` · `Cisco Routing & Switching` · `Harmonic` · `Huawei Switches` · `OcNOS-SP` · `Tibit XGS-PON` · `BNG` · `BGP` · `OSPF` · `RADIUS / AAA (FreeRADIUS)` · `SD-WAN` · `QinQ / PPPoE`
 
 Automation and NetDevOps
 `Python` · `Ansible` · `NETCONF / YANG (ncclient)` · `Git and GitHub`
